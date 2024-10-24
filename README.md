@@ -25,7 +25,7 @@ Note 2: You can remane the environment name accordingly by editing the name and 
 ### Step 2: Activate the conda environment
 Once the conda environment is created, you can activate the environment by using the command below
 ```
-conda activate environment_name
+conda activate radimage
 ```
 ### Step 3: Run the script
 Keep the dataset and codes in same folder. While running the codes, keep track of the paths of train and test directory in your code.
